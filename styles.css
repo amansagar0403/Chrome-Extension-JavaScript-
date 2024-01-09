@@ -12,15 +12,22 @@ input{
     margin-bottom: 4px;
 }
 
-button{
+#input-btn{
     color: white;
     background-color: #5f9341;
     padding: 10px 20px;
-    border: none;
+    border: 1px solid #5f9341;
     font-weight: bold;
     cursor: pointer;
 }
-
+#delete-btn{
+    color: #5f9341;
+    background-color: white;
+    padding: 10px 20px;
+    border: 1px solid #5f9341;
+    font-weight: bold;
+    cursor: pointer;
+}
 ul{
     margin-top: 20px;
     list-style: none;
